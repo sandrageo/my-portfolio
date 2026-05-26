@@ -46,5 +46,5 @@ Developed employee management software to streamline HR operations and performan
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: www.linkedin.com/in/sandra-maria-george
 - GitHub: https://github.com/sandrageo
